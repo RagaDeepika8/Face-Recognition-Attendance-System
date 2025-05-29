@@ -13,12 +13,6 @@ A robust real-time face recognition attendance system using **YOLO**, **OpenFace
 💾 **MySQL Database** integration for student records and attendance
 📈 **Attendance summary updates** with automatic percentage calculation
 🔌 **SocketIO connection** to update web dashboard in real time
-🧪 Fail-safes for:
-
-  * Camera access issues
-  * Bounding box validation
-  * Small/empty face detection
-
 
 
 ## 🛠️ Tech Stack
